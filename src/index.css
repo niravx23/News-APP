@@ -1,13 +1,47 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* fonts.css */
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* Roboto Font */
+.font-roboto {
+	font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  /* Open Sans Font */
+  .font-open-sans {
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  /* Montserrat Font */
+  .font-montserrat {
+	font-family: 'Montserrat', sans-serif;
+  }
+  
+  /* Poppins Font */
+  .font-poppins {
+	font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  }
+  
+  /* Lato Font */
+  .font-lato {
+	font-family:Impact, 'Arial Narrow Bold', sans-serif ;
+  }
+  
+  /* Playfair Display Font */
+  .font-playfair-display {
+	font-family: 'Playfair Display', serif;
+  }
+  
+  /* Pacifico Font */
+  .font-pacifico {
+	font-family: 'Pacifico', cursive;
+  }
+  
+  /* Inconsolata Font */
+  .font-inconsolata {
+	font-family: 'Inconsolata', monospace;
+  }
+  
+  /* Dancing Script Font */
+  .font-dancing-script {
+	font-family: 'Dancing Script', cursive;
+  }
+  
